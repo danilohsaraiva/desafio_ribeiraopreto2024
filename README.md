@@ -3,7 +3,7 @@ Etapa teste do processo seletivo (Estágio)
 
 📚 Processo [Target](https://www.targetsistemas.com.br/sobre)
 
-Consiste na resolução de lógica e algorítmica de algumas questões, que neste repositório estão no arquivo: desafio_ribeirao_preto_2024 e neste arquivo README.md.
+Consiste na resolução lógica e algorítmica de algumas questões, que neste repositório estão no arquivo: desafio_ribeirao_preto_2024 e neste arquivo README.md.
 
 Como a proposta é não usar de funções prontas, decidi por resolve-los utilizando da linguagem C.
 
