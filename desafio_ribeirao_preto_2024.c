@@ -52,7 +52,7 @@ int main(int argc, char const *argv[])
     printf("c) 0, 1, 4, 9, 16, 25, 36, [??] | Resposta: 49\n");
     printf("d) 4, 16, 36, 64, [???] | Resposta: 100\n");
     printf("e) 1, 1, 2, 3, 5, 8, [??] | Resposta: 13\n");
-    printf("f) 2, 10, 12, 16, 17, 18, 19, [??] | Resposta: 18 \n\t:>>>> Obs: Resolucao da questao f esta detalhada no README.md\n");
+    printf("f) 2, 10, 12, 16, 17, 18, 19, [??] | Resposta: 200\n");
 
     printf("\n*************** QUESTAO 4 ***************\n");
     printf("Resposta no READMD.md\n");

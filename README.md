@@ -7,30 +7,6 @@ Consiste na resolução de lógica e algorítmica de algumas questões, que nest
 
 Como a proposta é não usar de funções prontas, decidi por resolve-los utilizando da linguagem C.
 
-### ✏Resolução questão 3, letra f) 2, 10, 12, 16, 17, 18, 19, ? <br>
-
-Seguindo a sequência abaixo:<br>
- **2**    ~~10~~  _12_    **16    17**    _18_    ~~19~~   **?** <br>
- 
- - Temos 8 valores na sequência acima
- - Supondo que se diminua os valores do centro para extremidade temos:<br>
- **17**-**16** = 1<br>
- _18_-_12_= 4<br>
- ~~19~~-~~10~~ = 9 <br>
- **?** - **2** = ? <br>
- - Partindo do raciocício da soma para gerar o proximo resultado a diferênca entre eles são respectivamente: 3, 5 , **?**.
- - Supondo que é a sequência ímpar dos números primos o próximo valor é 7, temos:<br>
- 1<br> diferença de 1 e 4 = 3<br>
- 4<br> diferença de 4 e 9 = 5<br>
- 9<br> o próximo valor seria 9 + 7 (supondo a sequência de números primos), resultando em:<br>
-16
- - Substituindo: <br>
- ? - 2 = 16<br>
-? = 16 + 2 <br>
-? = 18
-
-**Resposta: 18**
-
 ### ✏ Resolução questão 4:
 
 >Supondo que são 3 salas: A, B e C<br>
