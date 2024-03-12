@@ -23,5 +23,5 @@ Dependendo do resultado, caso:<br>
 
 |Lâmpada Ligada<br>(X2 = A)|Lâmpada apagada e quente<br>(X1 = A)|Lâmpada apagada e fria<br>(X3 = A)|
 |-----|----|----|
-|Entraria na sala B , caso a lâmpada esteja quente B = X1, automaticamente C = X3 e vice-versa se fria o contrário.<br>|Entraria na sala B, se estivesse acesa a X2 = B e X3 = C, caso apagada X2 = C e X3 = B|Se sala B estiver ligada e fria B = X2, caso apagada  C = X1 e se quente B = X1 e C = X2.|
+|Entraria na sala B , caso a lâmpada esteja quente B = X1, automaticamente C = X3 e vice-versa se fria o contrário.<br>|Entraria na sala B, se estivesse acesa a X2 = B e X3 = C, caso apagada X2 = C e X3 = B|Se sala B estiver ligada e fria B = X2, C = X1 e se apagada e quente B = X1, C = X2.|
 
